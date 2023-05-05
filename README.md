@@ -1,4 +1,4 @@
-# Resilience4j Microservices Example
+# Circuit Breaker with Resilience4j Microservices Example
 
 This project is an example of two Spring Boot microservices that demonstrate the use of Resilience4j for implementing the Circuit Breaker pattern in a distributed system. The first microservice, called "Caller", has a REST endpoint that invokes the second microservice, called "Supplier", through a Resilience4j Circuit Breaker.
 
