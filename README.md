@@ -9,8 +9,8 @@ Read article about how to use it and why to use it here: https://medium.com/@kno
 To run this project, you will need to have Java 11 or higher installed on your machine. You can clone this repository and build the project using the following commands:
 
 ```
-git clone https://github.com/your-username/resilience4j-microservices-example.git
-cd resilience4j-microservices-example
+git clone https://github.com/amithimani/resilience4j.git
+cd resilience4j
 mvn clean package
 ```
 
