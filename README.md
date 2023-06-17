@@ -2,6 +2,8 @@
 
 This project is an example of two Spring Boot microservices that demonstrate the use of Resilience4j for implementing the Circuit Breaker pattern in a distributed system. The first microservice, called "Caller", has a REST endpoint that invokes the second microservice, called "Supplier", through a Resilience4j Circuit Breaker.
 
+Read article about how to use it and why to use it here: https://medium.com/@knowledge.cafe/resilient-microservices-with-resilience4j-implementing-circuit-breaker-for-springboot-adc076702594
+
 ## Getting Started
 
 To run this project, you will need to have Java 11 or higher installed on your machine. You can clone this repository and build the project using the following commands:
